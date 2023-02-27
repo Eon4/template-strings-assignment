@@ -2,9 +2,16 @@
 
 
 // din kode her
+const navn = "Keld";
+        const aarIvirksomhed = 3;
+        const besked = `Hej ${navn}
+        du har arbejdet i vores virksomhed i ${aarIvirksomhed} år.`;
+        console.log(besked);
+
+document.getElementById("message").innerHTML = besked;
 
 
-/* Opgave 1*/
+/* Opgave 2*/
 
 
 // din kode her
