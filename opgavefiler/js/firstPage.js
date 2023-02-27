@@ -1,4 +1,4 @@
-/* Opgave 1*/
+/* Opgave 1*/ //Complete//
 
 
 // din kode her
@@ -11,7 +11,7 @@ const navn = "Keld";
 document.getElementById("message").innerHTML = besked;
 
 
-/* Opgave 2*/
+/* Opgave 2*/ //Complete//
 
 const myData=[
     { "name": "T-shirt",
@@ -43,7 +43,7 @@ const myData=[
     });
 
 
-/* Opgave 3 - skriv videre på koden her: */
+/* Opgave 3 - skriv videre på koden her: */ //Complete//
 
 // array med person data
 const myPersons = [];
